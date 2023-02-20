@@ -1,0 +1,5 @@
+.mainContainer {
+    @apply flex justify-end m-3 mr-10
+}
+
+
